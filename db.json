@@ -5,17 +5,25 @@
       "name": "Wireless Mouse",
       "description": "Ergonomic wireless mouse with high precision.",
       "price": 150000,
-      "stock": 110
+      "stock": 100
     }
   ],
   "logs": [
     {
-      "id": 1,
+      "id": "1",
       "product_id": "8992745120650",
       "type": "stock_in",
       "quantity": 10,
       "note": "Restocked due to high demand",
       "date": "2024-11-22T10:00:00Z"
+    },
+    {
+      "id": "d378",
+      "product_id": "8992745120650",
+      "type": "stock_in",
+      "quantity": 3,
+      "note": "Restocked",
+      "date": "2024-11-23T16:22:07.567Z"
     }
   ]
 }
